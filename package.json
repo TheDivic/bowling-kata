@@ -1,0 +1,19 @@
+{
+  "name": "bowling-kata",
+  "version": "1.0.0",
+  "description": "Bowling Game Kata by Uncle Bob Martin",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js",
+    "new": "./new.sh"
+  },
+  "keywords": [
+    "kata",
+    "bowling",
+    "js",
+    "jest"
+  ],
+  "author": "Nikola Divic",
+  "license": "ISC"
+}
