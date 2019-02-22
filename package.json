@@ -4,7 +4,7 @@
   "description": "Bowling Game Kata by Uncle Bob Martin",
   "main": "index.js",
   "scripts": {
-    "test": "jest",
+    "test": "jest `date \"+%Y-%m-%d/BowlingGame.test.js\"`",
     "start": "node index.js",
     "new": "./new.sh"
   },
